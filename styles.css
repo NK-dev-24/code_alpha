@@ -40,6 +40,7 @@ b{
   font-size: 70px;
   color: #00ADB5;
 }
+
 .navitems{
 display: flex;
 }
@@ -90,6 +91,7 @@ margin: 0 15px;
   letter-spacing: 5px;
   color: #333333;
 }
+
 .topline::after{
   position: absolute;
   content: '';
@@ -105,15 +107,18 @@ h1{
   font-weight: 900;
   color:  #00ADB5;
 }
+
 p{
   font-family: 'Poppins', sans-serif;
   font-size: 20px;
 }
+
 .btns{
   width: 100%;
   position: relative;
   left: 150px;
 }
+
 button{
   outline: none;
   border: none;
@@ -129,13 +134,11 @@ button{
   box-shadow: 0 15px 10px rgba(0
   , 0,0,0.4);
 }
+
 button:hover{
   background-color: #FDBF00;
 }
+
 span{
   color: #FFD700;
-}
-
-.feature-img{
-
 }
